@@ -1,0 +1,3 @@
+StRe_no St_name St_age
+1        re        21 
+2        we        23 
