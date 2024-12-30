@@ -194,6 +194,7 @@ void freeLinkedList() {
 int main() {
     insertAtBeginning(10);
     insertAtBeginning(20);
+    insertAtBeginning(34);
     insertAtEnd(30);
     insertAtPosition(15, 2);
 
